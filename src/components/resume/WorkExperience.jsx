@@ -6,7 +6,7 @@ const WorkExperience = [
         yearsActive: "February 2024 - Present",
         information: [
             "Write modern, performant, maintainable code for a diverse array of internal projects",
-            "Communicate with multi-disciplinary teams of engineers, team leads, and QA Engineers on a daily basis",
+            "Communicate with multi-disciplinary teams of engineers, team leads.",
         ],
     },
     {
